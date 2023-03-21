@@ -7,7 +7,6 @@
 <ul>
   <li>A personal web page with React 💻</li>
   <li>Developing a 2D videogame with Unity :feelsgood:</li>
-  <li>An image pixelator with retro-style filters 🍂</li>
 </ul>  
 
 ## 🌐 Socials:
