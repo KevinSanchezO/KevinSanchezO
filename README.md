@@ -5,7 +5,6 @@
 🌱 I'm 22 years old and currently studying computer science engineering.<br>
 I enjoy learning new things realated to programming and I enjoy being given new challenges everyday.<br>
 <br>
-
 🌐 You can reach to me via:
 </p>
 
@@ -17,12 +16,6 @@ I enjoy learning new things realated to programming and I enjoy being given new 
 <a href="mailto: kesanchezo@gmail.com">
 <img src="icons/gmail.svg" alt="Gmail" height="25" width='25'/>
 </a>
-</div>
-
-<br>
-
-<div align='center'>
-<p>📫 You can also view my portfolio <a href="">here</a></p>
 </div>
 
 <h1 align="center">💻 Tech Stack</h1>
@@ -85,7 +78,7 @@ I enjoy learning new things realated to programming and I enjoy being given new 
 </tr>
 </table>
 
-<h3 align='center'>⚗️ Tools</h3>
+<h3 align='center'>🔧 Tools</h3>
 <table align="center">
 <tr>
 
