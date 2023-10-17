@@ -19,7 +19,6 @@ I enjoy learning new things realated to programming and I enjoy being given new 
 </div>
 
 <h1 align="center">💻 Tech Stack</h1>
-<h3 align='center'>🎨 Front End</h3>
 <table align="center">
 <tr>
 
@@ -43,16 +42,9 @@ I enjoy learning new things realated to programming and I enjoy being given new 
 <br/>React
 </td>
 
-</tr>
-</table>
-
-<h3 align='center'>👷🏻 Back End</h3>
-<table align="center">
-<tr>
-
 <td align="center" width="70" height="70">
-<img src="icons/python.svg" alt="Python" width="40" height="40"/>
-<br/>Python
+<img src="icons/redux.svg" alt="React" width="40" height="40"/>
+<br/>Redux
 </td>
 
 <td align="center" width="70" height="70">
@@ -60,41 +52,118 @@ I enjoy learning new things realated to programming and I enjoy being given new 
 <br/>Node.js
 </td>
 
+</tr>
+
+
+<tr>
+
+<td align="center" width="70" height="70">
+<img src="icons/express.svg" alt="Python" width="40" height="40"/>
+<br/>Express
+</td>
+
+
+<td align="center" width="70" height="70">
+<img src="icons/bootstrap.svg" alt="Python" width="40" height="40"/>
+<br/>Bootstrap
+</td>
+
+
+<td align="center" width="70" height="70">
+<img src="icons/materialui.svg" alt="Python" width="40" height="40"/>
+<br/>Material UI
+</td>
+
+
+<td align="center" width="70" height="70">
+<img src="icons/python.svg" alt="Python" width="40" height="40"/>
+<br/>Python
+</td>
+
+
 <td align="center" width="70" height="70">
 <img src="icons/csharp.svg" alt="C#" width="40" height="40"/>
 <br/>C#
 </td>
+
+
+<td align="center" width="70" height="70">
+<img src="icons/java.svg" alt="C#" width="40" height="40"/>
+<br/>Java
+</td>
+
+</tr>
+
+
+<tr>
 
 <td align="center" width="70" height="70">
 <img src="icons/mongodb.svg" alt="MongoDB" width="40" height="40"/>
 <br/>MongoDB
 </td>
 
+
 <td align="center" width="70" height="70">
 <img src="icons/sqlserver.svg" alt="Microsoft SQL Server" width="40" height="40"/>
 <br/>Microsoft Sql Server
 </td>
 
-</tr>
-</table>
-
-<h3 align='center'>🔧 Tools</h3>
-<table align="center">
-<tr>
 
 <td align="center" width="70" height="70">
 <img src="icons/git.svg" alt="Git" width="40" height="40"/>
 <br/>Git
 </td>
 
+
 <td align="center" width="70" height="70">
 <img src="icons/vite.svg" alt="Vite" width="40" height="40"/>
 <br/>Vite
 </td>
 
+
 <td align="center" width="70" height="70">
 <img src="icons/figma.svg" alt="Figma" width="40" height="40"/>
 <br/>Figma
+</td>
+
+
+<td align="center" width="70" height="70">
+<img src="icons/postman.svg" alt="Figma" width="40" height="40"/>
+<br/>Postman
+</td>
+
+</tr>
+
+
+<tr > 
+
+<td align="center" width="70" height="70">
+<img src="icons/yarn.svg" alt="Figma" width="40" height="40"/>
+<br/>Yarn
+</td>
+
+
+<td align="center" width="70" height="70">
+<img src="icons/npm.svg" alt="Figma" width="40" height="40"/>
+<br/>NPM
+</td>
+
+
+<td align="center" width="70" height="70">
+<img src="icons/linux.svg" alt="Figma" width="40" height="40"/>
+<br/>Linux
+</td>
+
+
+<td align="center" width="70" height="70">
+<img src="icons/godot.svg" alt="Figma" width="40" height="40"/>
+<br/>Godot
+</td>
+
+
+<td align="center" width="70" height="70">
+<img src="icons/unity.svg" alt="Figma" width="40" height="40"/>
+<br/>Unity
 </td>
 
 </tr>
