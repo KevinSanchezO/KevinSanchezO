@@ -128,7 +128,7 @@ I enjoy learning new things realated to programming and I enjoy being given new 
 
 
 <td align="center" width="70" height="70">
-<img src="icons/postman.svg" alt="Figma" width="40" height="40"/>
+<img src="icons/postman.svg" alt="Postman" width="40" height="40"/>
 <br/>Postman
 </td>
 
@@ -138,35 +138,51 @@ I enjoy learning new things realated to programming and I enjoy being given new 
 <tr > 
 
 <td align="center" width="70" height="70">
-<img src="icons/yarn.svg" alt="Figma" width="40" height="40"/>
+<img src="icons/yarn.svg" alt="Yarn" width="40" height="40"/>
 <br/>Yarn
 </td>
 
 
 <td align="center" width="70" height="70">
-<img src="icons/npm.svg" alt="Figma" width="40" height="40"/>
+<img src="icons/npm.svg" alt="NPM" width="40" height="40"/>
 <br/>NPM
 </td>
 
 
 <td align="center" width="70" height="70">
-<img src="icons/linux.svg" alt="Figma" width="40" height="40"/>
+<img src="icons/linux.svg" alt="Linux" width="40" height="40"/>
 <br/>Linux
 </td>
 
 
 <td align="center" width="70" height="70">
-<img src="icons/godot.svg" alt="Figma" width="40" height="40"/>
+<img src="icons/godot.svg" alt="Godot" width="40" height="40"/>
 <br/>Godot
 </td>
 
 
 <td align="center" width="70" height="70">
-<img src="icons/unity.svg" alt="Figma" width="40" height="40"/>
+<img src="icons/unity.svg" alt="Unity" width="40" height="40"/>
 <br/>Unity
 </td>
 
+<td align="center" width="70" height="70">
+<img src="icons/tailwind.svg" alt="Tailwind" width="40" height="40"/>
+<br/>Tailwind
+</td>
+
 </tr>
+
+
+<tr>
+
+<td align="center" width="70" height="70">
+<img src="icons/styled-components.svg" alt="Styled components" width="40" height="40"/>
+<br/>Styled components
+</td>
+
+</tr>
+
 </table>
 
 <br>
